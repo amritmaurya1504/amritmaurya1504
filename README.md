@@ -10,7 +10,6 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play games 🎮
 <br />
-
 ### Connect with me:
 
 [<img align="left"  width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://amrit-raj.herokuapp.com/)
