@@ -1,5 +1,5 @@
 # Hi there, I'm Amrit Raj 👋😃
-I'm 18 years old Full Stack Web Developer From India, I learned how to code since 2019, this was my first step in this industry.
+I'm 18 years old Full Stack Web Developer From India.
 
 [![Website](https://img.shields.io/website?label=amrit-raj.herokuapp.com/&style=for-the-badge&url=https%3A%2F%2Famrit-raj.herokuapp.com/)](https://amrit-raj.herokuapp.com/)
 
