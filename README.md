@@ -40,4 +40,8 @@
 <br />
 <br />
 
+## ✅ My GitHub Stats ✅
+![Amrit's GitHub stats](https://github-readme-stats.vercel.app/api?username=amritmaurya1504&count_private=true&stars=true&include_all_commits=true&show_icons=true&theme=radical)
+
+<br />
 ---
