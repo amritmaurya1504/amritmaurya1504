@@ -1,4 +1,4 @@
-### Hi there, I'm Amrit Raj 👋😃
+# Hi there, I'm Amrit Raj 👋😃
 
 [![Website](https://img.shields.io/website?label=amrit-raj.herokuapp.com/&style=for-the-badge&url=https%3A%2F%2Famrit-raj.herokuapp.com/)](https://amrit-raj.herokuapp.com/)
 
