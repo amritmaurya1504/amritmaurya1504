@@ -14,24 +14,12 @@ I'm 18 years old Full Stack Web Developer From India.
 
 ### Connect with me:
 
-<p>
-<a href="https://www.linkedin.com/in/sagnik-ghosh-564574199">
-<img src="https://img.shields.io/badge/Linkedin-blue?style=flat&logo=linkedin&labelColor=blue">
-</a>
-<a href="mailto:sagnikghoshmandra@gmail.com?subject=Hello%20Sagnik,%20From%20Github">
-<img src="https://img.shields.io/badge/-Gmail-%23db483b?style=flat&logo=Gmail&labelColor=red&logoColor=white">
-</a>
-<a href="https://www.facebook.com/profile.php?id=100036939404474">
-<img src="https://img.shields.io/badge/-Facebook-%230d8bf1?style=flat&logo=Facebook&logoColor=white">
-</a>
-<a href="https://www.instagram.com/sagnikghoshcr7">
-<img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=flat&logo=Instagram&logoColor=white">
-</a>
-<a href="https://twitter.com/Sagnikghoshcr7">
-<img src="https://img.shields.io/badge/-Twitter-%231a91da?style=flat&logo=Twitter&logoColor=white">
-</a>
-<a target="_blank"><img src="https://visitor-badge.glitch.me/badge?page_id=sagnikghoshcr7.sagnikghoshcr7" alt="Vistor Badge"></a>
-</p>
+
+[<img align="left"  width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://amrit-raj.herokuapp.com/)
+[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/infoskillx/)
+[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/amrit-raj-3400b71bb/)
+[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/rajamritmaurya.1)
+[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://facebook.com/amrit.maurya.14)
 
 <br />
 
