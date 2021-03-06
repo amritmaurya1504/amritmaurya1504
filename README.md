@@ -1,4 +1,4 @@
-# Hi there, I'm Amrit Raj <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="40px" width="40px"> 😃
+# Hi there,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="40px" width="40px"> I'm Amrit Raj  😃
 I'm 18 years old Full Stack Web Developer From India.
 
 [![Website](https://img.shields.io/website?label=amrit-raj.herokuapp.com/&style=for-the-badge&url=https%3A%2F%2Famrit-raj.herokuapp.com/)](https://amrit-raj.herokuapp.com/)
