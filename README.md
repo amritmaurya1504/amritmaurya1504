@@ -43,6 +43,7 @@ I'm 18 years old Full Stack Web Developer From India.
 
 ## ✅ My GitHub Stats ✅
 ![Amrit's GitHub stats](https://github-readme-stats.vercel.app/api?username=amritmaurya1504&count_private=true&stars=true&include_all_commits=true&show_icons=true&theme=radical)
+## ✅ Most Language Used ✅
 <p align="right"><img align="left" height="240" width="230" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amritmaurya1504&hide=css&theme=nord" alt="Language_Used" /></p>
 <br />
 ---
