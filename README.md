@@ -39,6 +39,7 @@ I'm 18 years old Full Stack Web Developer From India.
   <br/>
 </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amritmaurya1504" alt="amritmaurya1504" /></a> </p>
 
 
 ## ✅ My GitHub Stats ✅
