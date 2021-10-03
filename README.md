@@ -51,9 +51,3 @@ I'm 18 years old Full Stack Web Developer From India.
 ## ✅ Most Language Used ✅
 <p align="right"><img align="left" height="240" width="230" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amritmaurya1504&hide=css&theme=nord" alt="Language_Used" /></p>
 
-<br />
-
-
-
-
----
