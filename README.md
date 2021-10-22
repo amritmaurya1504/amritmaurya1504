@@ -2,7 +2,7 @@
 I'm 18 years old Full Stack Web Developer From India.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 
-### Check my portfolio [![Website](https://img.shields.io/website?label=amritraj&style=for-the-badge&url=https%3A%2F%2Famritraj.live/)](https://amritraj.live/) 
+[![Website](https://img.shields.io/website?label=amritraj&style=for-the-badge&url=https%3A%2F%2Famritraj.live/)](https://amritraj.live/) 
 
 ## I'm a Learner and Developer !!
 
