@@ -64,3 +64,7 @@ Languages & Technologies: `React`, `Node`, `MongoDB`, `JavaScript`,`Express` \
 ## ✅ Most Language Used ✅
 <p align="right"><img align="left" height="240" width="230" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amritmaurya1504&hide=css&theme=nord" alt="Language_Used" /></p>
 
+[![Amrit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=amritmaurya1504&theme=xcode)](https://git.io/amritmaurya1504)
+   <br />
+   <br />
+
