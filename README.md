@@ -13,6 +13,17 @@ I'm 20 years old Full Stack Web Developer From India.<img src="https://media.gip
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
+### Work Experience
+In the overview below you will find my most recent work experience:
+
+[<img align="left" height="94px" width="94px" alt="KPN" src="https://github.com/roaldnefs/roaldnefs/blob/main/images/kpn.jpeg?raw=true"/>](https://www.kpn.com/)
+
+**Full Stack Software Developer** \
+[**KPN**](https://www.kpn.com/) • Contract \
+Languages & Technologies: `RHEL`, `Python`, `Ansible`, `KSP` \
+<br/>
+<br/>
+
 ### Connect with me:
 
 
