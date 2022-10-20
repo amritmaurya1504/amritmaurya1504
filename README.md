@@ -16,7 +16,7 @@ I'm 20 years old Full Stack Web Developer From India.<img src="https://media.gip
 ### Work Experience
 In the overview below you will find my most recent work experience:
 
-[<img align="left" height="94px" width="94px" alt="KPN" src="https://github.com/roaldnefs/roaldnefs/blob/main/images/kpn.jpeg?raw=true"/>](https://www.kpn.com/)
+[<img align="left" height="94px" width="94px" alt="KPN" src="https://res.cloudinary.com/amritrajmaurya/image/upload/v1666256257/AppIcon_talaqn.webp"/>](https://www.scribefi.com/)
 
 **Full Stack Software Developer** \
 [**ScribeFi**](https://scribefi.com/) • Software Company \
