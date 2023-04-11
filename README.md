@@ -2,7 +2,8 @@
 I'm 20 years old Full Stack Web Developer From India.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 
-[![Website](https://img.shields.io/website?label=amritraj&style=for-the-badge&url=[(https://amritraj-q0t3o23z3-amritmaurya1504.vercel.app/)])(https://amritraj-q0t3o23z3-amritmaurya1504.vercel.app/) 
+[![Website](https://img.shields.io/website?label=amritraj&style=for-the-badge&url=https://amritraj-q0t3o23z3-amritmaurya1504.vercel.app/)](https://amritraj-q0t3o23z3-amritmaurya1504.vercel.app/)
+
 
 ## I'm a Learner and Developer !!
 
