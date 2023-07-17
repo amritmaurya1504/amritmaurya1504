@@ -2,7 +2,7 @@
 I'm 21 years old Full Stack Web Developer From India.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 
-[![Website](https://img.shields.io/website?label=amritraj&style=for-the-badge&url=https://amritraj-q0t3o23z3-amritmaurya1504.vercel.app/)](https://amritraj-q0t3o23z3-amritmaurya1504.vercel.app/)
+[![Portfolio | Amrit Raj](https://img.shields.io/website?label=amritraj&style=for-the-badge&url=https://amritraj-q0t3o23z3-amritmaurya1504.vercel.app/)](https://amritraj-q0t3o23z3-amritmaurya1504.vercel.app/)
 
 
 ## I'm a Learner and Developer !!
@@ -67,7 +67,7 @@ Languages & Technologies: `React`, `Node`, `MongoDB`, `JavaScript`, `Express` \
 
 ## ✅ Most Language Used ✅
 <p align="right"><img align="left" height="240" width="230" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amritmaurya1504&hide=css&theme=nord" alt="Language_Used" />
-[![Amrit's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=amritmaurya1504&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/amritmaurya1504/github-readme-activity-graph)
+
 </p>
 
    <br />
