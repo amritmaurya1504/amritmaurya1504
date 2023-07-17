@@ -66,9 +66,10 @@ Languages & Technologies: `React`, `Node`, `MongoDB`, `JavaScript`, `Express` \
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amritmaurya1504&" alt="amritmaurya1504" /></p>
 
 ## ✅ Most Language Used ✅
-<p align="right"><img align="left" height="240" width="230" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amritmaurya1504&hide=css&theme=nord" alt="Language_Used" /></p>
-
+<p align="right"><img align="left" height="240" width="230" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amritmaurya1504&hide=css&theme=nord" alt="Language_Used" />
 [![Amrit's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=amritmaurya1504&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/amritmaurya1504/github-readme-activity-graph)
+</p>
+
    <br />
    <br />
 
