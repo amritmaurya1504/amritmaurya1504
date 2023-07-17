@@ -29,12 +29,12 @@ Languages & Technologies: `React`, `Node`, `MongoDB`, `JavaScript`, `Express` \
 
 
 <p align="left">
-<a href="[https://www.linkedin.com/in/amrit-raj-3400b71bb/](https://www.linkedin.com/in/amrit-r-3400b71bb/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amritmaurya1504" height="30" width="40" /></a>
-<a href="https://instagram.com/rajamritmaurya.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amritmaurya1504" height="30" width="40" /></a>
-<a href="https://www.youtube.com/infoskillx/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucybcl66huqdcbf-2duwcifq" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/bigo_15" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="amritmaurya1504" height="30" width="40" /></a>
-<a href="https://leetcode.com/rajamrit_15/" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="amritmaurya1504" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/rajamrit15/practice/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="amritmaurya1504" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/amrit-r-3400b71bb/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="amritmaurya1504" /></a>
+<a href="https://instagram.com/rajamritmaurya.1" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="amritmaurya1504" /></a>
+<a href="https://www.youtube.com/infoskillx/" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="https://www.youtube.com/channel/ucybcl66huqdcbf-2duwcifq" /></a>
+<a href="https://www.hackerrank.com/bigo_15" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="amritmaurya1504" /></a>
+<a href="https://leetcode.com/rajamrit_15/" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="amritmaurya1504" /></a>
+<a href="https://auth.geeksforgeeks.org/user/rajamrit15/practice/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="amritmaurya1504" /></a>
   
 
 </p>
@@ -45,8 +45,8 @@ Languages & Technologies: `React`, `Node`, `MongoDB`, `JavaScript`, `Express` \
 
 <p>
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript" />&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
