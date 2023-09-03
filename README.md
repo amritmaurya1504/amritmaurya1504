@@ -1,12 +1,7 @@
 # Hi there,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="40px" width="40px"> I'm Amrit Raj  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/>
 I'm 21 years old Full Stack Web Developer From India.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-<br />
-[![Linkedin: Amrit Raj](https://img.shields.io/badge/-rajamrit-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amrit-r-3400b71bb/)]([https://www.linkedin.com/in/amrit-r-3400b71bb/](https://www.linkedin.com/in/amrit-r-3400b71bb/))
-[![GitHub Amrit](https://img.shields.io/github/followers/amritmaurya1504?label=follow&style=social)](https://github.com/amritmaurya1504)
 
 [![Portfolio | Amrit Raj](https://img.shields.io/website?label=portfolio&style=for-the-badge&url=https://amritraj-q0t3o23z3-amritmaurya1504.vercel.app/)](https://amritraj-q0t3o23z3-amritmaurya1504.vercel.app/)
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 ### Work Experience
 In the overview below you will find my most recent work experience:
@@ -20,7 +15,6 @@ Languages & Technologies: `React`, `Node`, `MongoDB`, `JavaScript`, `Express` \
 <br/>
 
 ### Connect with me:
-
 
 <p align="left">
 <a href="https://www.linkedin.com/in/amrit-r-3400b71bb/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="amritmaurya1504" /></a>
