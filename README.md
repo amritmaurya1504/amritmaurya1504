@@ -4,14 +4,6 @@ I'm 21 years old Full Stack Web Developer From India.<img src="https://media.gip
 
 [![Portfolio | Amrit Raj](https://img.shields.io/website?label=portfolio&style=for-the-badge&url=https://amritraj-q0t3o23z3-amritmaurya1504.vercel.app/)](https://amritraj-q0t3o23z3-amritmaurya1504.vercel.app/)
 
-
-## I'm a Learner and Developer !!
-
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2023 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play games 🎮
-
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 ### Work Experience
