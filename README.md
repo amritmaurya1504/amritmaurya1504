@@ -10,7 +10,7 @@ In the overview below you will find my most recent work experience:
 
 **Full Stack Software Developer** \
 [**ScribeFi**](https://scribefi.com/) • Software Company \
-Languages & Technologies: `React`, `Node`, `MongoDB`, `JavaScript`, `Express` \
+Languages & Technologies: `React`, `Node`, `MongoDB`, `JavaScript`, `Express`, `Zapier`, `TailwindCSS` \
 <br/>
 <br/>
 
@@ -29,22 +29,17 @@ Languages & Technologies: `React`, `Node`, `MongoDB`, `JavaScript`, `Express` \
 
 <br />
 
-### Languages and Tools:
-
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const thai = {
-  pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+const amrit = {
+  pronouns: "he" | "him",
+  code: [Java, Javascript, Typescript, HTML, CSS, SQL, Data Structures & Algorithm, Problem Solving],
+  web-technologies: [React, Next, Redux, tailwind, bootstrap],
+  backend: [nodejs, express, spring, springBoot],
+  databases : [MySQL, MonogoDB],
+  tools: [Git, Github, VSCode, Docker],
+  cs: [OOPS, DBMS, Operating System]
 }
 ```
 
