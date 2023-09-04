@@ -3,12 +3,10 @@ I'm 21 years old Full Stack Web Developer From India.<img src="https://media.gip
 
 [![Portfolio | Amrit Raj](https://img.shields.io/website?label=portfolio&style=for-the-badge&url=https://amritraj-q0t3o23z3-amritmaurya1504.vercel.app/)](https://amritraj-q0t3o23z3-amritmaurya1504.vercel.app/)
 
-## 🌟 Exploring the World of Code
+### 🌟 Exploring the World of Code
 
 🌱 Lifelong Learner | 💻 Self-Taught Full Stack Developer | 🎵 Music Enthusiast
-
 👯 I'm open to collaborations with fellow content creators and developers.
-
 🥅 My goal: To be a skilled Developer 👨‍💻.
 
 
