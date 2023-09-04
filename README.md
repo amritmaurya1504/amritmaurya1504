@@ -5,9 +5,9 @@ I'm 21 years old Full Stack Web Developer From India.<img src="https://media.gip
 
 ### 🌟 Exploring the World of Code
 
-🌱 Lifelong Learner | 💻 Self-Taught Full Stack Developer | 🎵 Music Enthusiast
-👯 I'm open to collaborations with fellow content creators and developers.
-🥅 My goal: To be a skilled Developer 👨‍💻.
+🌱 Lifelong Learner | 💻 Self-Taught Full Stack Developer | 🎵 Music Enthusiast. <br />
+👯 I'm open to collaborations with fellow content creators and developers. <br />
+🥅 My goal: To be a skilled Developer 👨‍💻. <br />
 
 
 ### Work Experience
