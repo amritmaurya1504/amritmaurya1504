@@ -30,14 +30,9 @@ Languages & Technologies: `React`, `Node`, `MongoDB`, `JavaScript`, `Express`, `
 <a href="https://www.hackerrank.com/bigo_15" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="amritmaurya1504" /></a>
 <a href="https://leetcode.com/rajamrit_15/" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="amritmaurya1504" /></a>
 <a href="https://auth.geeksforgeeks.org/user/rajamrit15/practice/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="amritmaurya1504" height="30" widht="40" /></a>
-  
-
 </p>
 
-<br />
-
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-
 ```javascript
 const amrit = {
   pronouns: "he" | "him",
