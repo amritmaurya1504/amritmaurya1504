@@ -1,5 +1,5 @@
 # Hi there,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="40px" width="40px"> I'm Amrit Raj  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/>
-I'm 21 years old Full Stack Web Developer From India.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+I'm 21 years old Self-Taught Full Stack Web Developer From India.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 [![Portfolio | Amrit Raj](https://img.shields.io/website?label=portfolio&style=for-the-badge&url=https://amritraj-q0t3o23z3-amritmaurya1504.vercel.app/)](https://amritraj-q0t3o23z3-amritmaurya1504.vercel.app/)
 
