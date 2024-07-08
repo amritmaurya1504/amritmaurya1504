@@ -17,7 +17,7 @@ In the overview below you will find my most recent work experience:
 
 **Full Stack Software Developer** \
 [**ScribeFi**](https://scribefi.com/) • Software Company \
-Languages & Technologies: `React`, `Node`, `MongoDB`, `JavaScript`, `Express`, `Zapier`, `TailwindCSS` \
+Languages & Technologies: `React`, `Node`, `MongoDB`, `JavaScript`, `Express`, `Socket.io`, `JwT`, `Zapier`, `TailwindCSS` \
 <br/>
 <br/>
 
@@ -37,7 +37,7 @@ Languages & Technologies: `React`, `Node`, `MongoDB`, `JavaScript`, `Express`, `
 const amrit = {
   pronouns: "he" | "him",
   code: [Java, Javascript, Typescript, HTML, CSS, SQL, Data Structures & Algorithm, Problem Solving],
-  web-technologies: [React, Next, Redux, tailwind, bootstrap],
+  frontend: [React, Next, Redux, React-Query, tailwind, bootstrap],
   backend: [nodejs, express, spring, springBoot],
   databases : [MySQL, MonogoDB],
   tools: [Git, Github, VSCode, Docker],
