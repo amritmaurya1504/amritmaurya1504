@@ -39,9 +39,9 @@ const amrit = {
   code: [Java, Javascript, Typescript, HTML, CSS, SQL, Data Structures & Algorithm, Problem Solving],
   frontend: [React, Next, Redux, React-Query, tailwind, bootstrap],
   backend: [nodejs, express, spring, springBoot],
-  databases : [MySQL, MonogoDB],
+  databases : [MySQL, MonogoDB, Postgres],
   tools: [Git, Github, VSCode, Docker],
-  cs: [OOPS, DBMS, Operating System]
+  cs: [OOPS, DBMS, Operating System, Computer Networks]
 }
 ```
 
