@@ -22,7 +22,8 @@ Languages & Technologies: `React`, `Node`, `MongoDB`, `JavaScript`, `Express`, `
 <br/>
 <br/>
 
-[<img align="right" height="94px" width="94px" alt="KPN" src="https://media.licdn.com/dms/image/C4D0BAQG68t-7fxTr3g/company-logo_200_200/0/1678348461342?e=2147483647&v=beta&t=EyRSfVm8XLPOL2b9O9BxMucpyEfhKYJcUjIDv1ooYzM"/>](https://timechainlabs.io/)
+[<img align="right" height="94px" width="94px" alt="KPN" src="https://media.licdn.com/dms/image/C4D0BAQG68t-7fxTr3g/company-logo_200_200/0/1678348461342?e=2147483647&v=beta&t=EyRSfVm8XLPOL2b9O9BxMucpyEfhKYJcUjIDv1ooYzM" style="border-radius: 10px;"/>](https://timechainlabs.io/)
+
 
 **Open Source Contributor** \
 [**Timechain Labs**](https://timechainlabs.io/) • Blockchain Service Company \
