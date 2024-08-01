@@ -21,10 +21,11 @@ Languages & Technologies: `React`, `Node`, `MongoDB`, `JavaScript`, `Express`, `
 <br/>
 <br/>
 
-[<img align="right" height="94px" width="94px" alt="KPN" src="[https://res.cloudinary.com/amritrajmaurya/image/upload/v1666256257/AppIcon_talaqn.webp](https://res.cloudinary.com/amritrajmaurya/image/upload/v1722496687/cropped-v_sdnqh6.png)"/>](https://www.vspaninc.com/)
+[<img align="left" height="94px" width="94px" alt="KPN" src="https://res.cloudinary.com/amritrajmaurya/image/upload/v1722496687/cropped-v_sdnqh6.png"/>](https://www.vspaninc.com/)
 
 **Software Developer Intern** \
 [**V-SPAN Inc**](https://vspaninc.com/) • IT Service & Consulting Company \
+Languages & Technologies: `React`, `Node`, `MongoDB`, `JavaScript`, `WordPress`, `Java` \
 <br/>
 <br/>
 
