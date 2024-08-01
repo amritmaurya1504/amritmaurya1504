@@ -8,6 +8,7 @@ I'm 22 years old `dynamic Full Stack Web Developer` From India.<img src="https:/
 🌱 Lifelong Learner | 💻 Self-Taught Full Stack Developer | 🎵 Music Enthusiast. <br />
 👯 I'm open to collaborations with fellow content creators and developers. <br />
 🥅 My goal: To be a skilled Developer 👨‍💻. <br />
+🔍 Currently exploring Blockchain technology.
 
 
 ### Work Experience
@@ -21,6 +22,14 @@ Languages & Technologies: `React`, `Node`, `MongoDB`, `JavaScript`, `Express`, `
 <br/>
 <br/>
 
+[<img align="right" height="94px" width="94px" alt="KPN" src="https://media.licdn.com/dms/image/C4D0BAQG68t-7fxTr3g/company-logo_200_200/0/1678348461342?e=2147483647&v=beta&t=EyRSfVm8XLPOL2b9O9BxMucpyEfhKYJcUjIDv1ooYzM"/>](https://timechainlabs.io/)
+
+**Open Source Contributor** \
+[**Timechain Labs**](https://timechainlabs.io/) • Blockchain Service Company \
+Languages & Technologies: `Svelte`, `Node`, `Postgres`, `JavaScript`, `TypeScript`, `NestJs`, `Nuecron`, `Blockchain` \
+<br/>
+<br/>
+
 [<img align="left" height="94px" width="94px" alt="KPN" src="https://res.cloudinary.com/amritrajmaurya/image/upload/v1722496687/cropped-v_sdnqh6.png"/>](https://www.vspaninc.com/)
 
 **Software Developer Intern** \
@@ -28,6 +37,7 @@ Languages & Technologies: `React`, `Node`, `MongoDB`, `JavaScript`, `Express`, `
 Languages & Technologies: `React`, `Node`, `MongoDB`, `JavaScript`, `WordPress`, `Java` \
 <br/>
 <br/>
+
 
 ### Connect with me:
 
