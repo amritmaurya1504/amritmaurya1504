@@ -64,4 +64,10 @@ const amrit = {
 }
 ```
 
+<p align="left" >
+<a href="https://github.com/amritmaurya1504/github-readme-stats"> 
+    <img  src="https://github-readme-stats.vercel.app/api?username=amritmaurya1504&&show_icons=true&theme=radical"/>
+  </a>
+</p>
+
 
