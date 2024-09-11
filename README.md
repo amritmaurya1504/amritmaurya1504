@@ -34,33 +34,6 @@ I'm 22 years old `dynamic Full Stack Web Developer` From India.<img src="https:/
 
 
 
-### Work Experience
-In the overview below you will find my most recent work experience:
-
-[<img align="left" height="94px" width="94px" alt="KPN" src="https://res.cloudinary.com/amritrajmaurya/image/upload/v1666256257/AppIcon_talaqn.webp"/>](https://www.scribefi.com/)
-
-**Full Stack Software Developer Intern** \
-[**ScribeFi**](https://scribefi.com/) • Software Company \
-Languages & Technologies: `React`, `Node`, `MongoDB`, `JavaScript`, `Express`, `Socket.io`, `JwT`, `Zapier`, `TailwindCSS` \
-<br/>
-<br/>
-
-[<img align="right" height="94px" width="94px" alt="KPN" src="https://media.licdn.com/dms/image/C4D0BAQG68t-7fxTr3g/company-logo_200_200/0/1678348461342?e=2147483647&v=beta&t=EyRSfVm8XLPOL2b9O9BxMucpyEfhKYJcUjIDv1ooYzM" style="border-radius: 10px;"/>](https://timechainlabs.io/)
-
-
-**Open Source Contributor** \
-[**Timechain Labs**](https://timechainlabs.io/) • Blockchain Service Company \
-Languages & Technologies: `Svelte`, `Node`, `Postgres`, `JavaScript`, `TypeScript`, `NestJs`, `Nuecron`, `Blockchain` \
-<br/>
-<br/>
-
-[<img align="left" height="94px" width="94px" alt="KPN" src="https://res.cloudinary.com/amritrajmaurya/image/upload/v1725873319/ho6x8chsim0syr31fhyl.png" style="border-radius: 10px;"/>](https://www.vspaninc.com/)
-
-**Software Developer Intern** \
-[**V-SPAN Inc**](https://vspaninc.com/) • IT Service & Consulting Company \
-Languages & Technologies: `React`, `Node`, `MongoDB`, `JavaScript`, `WordPress`, `Java` \
-<br/>
-<br/>
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
