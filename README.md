@@ -16,7 +16,7 @@ I'm 22 years old `dynamic Full Stack Web Developer` From India.<img src="https:/
 
 🌱 Lifelong Learner | 💻 Self-Taught Full Stack Developer | 🎵 Music Enthusiast. <br />
 👯 I'm open to collaborations with fellow content creators and developers. <br />
-🥅 My goal: To be a skilled Developer 👨‍💻. <br />
+🥅 My goal: To be a skilled Engineer 👨‍💻. <br />
 🔍 Currently exploring Blockchain technology.
 
 <!-- START OF PROFILE STACK, DO NOT REMOVE -->
