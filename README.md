@@ -45,7 +45,8 @@ const amrit = {
   backend: [nodejs, express, spring, springBoot],
   databases : [MySQL, MonogoDB, Postgres],
   tools: [Git, Github, VSCode, Docker],
-  cs: [OOPS, DBMS, Operating System, Computer Networks]
+  cs: [OOPS, DBMS, Operating System, Computer Networks],
+  latest-technology: [Blockchain]
 }
 ```
 
