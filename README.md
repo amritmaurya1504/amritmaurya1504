@@ -7,7 +7,7 @@ I'm 22 years old `dynamic Full Stack Web Developer` From India.<img src="https:/
 [![Mail](https://img.shields.io/badge/Gmail-amrit.raj1504@gmail.com-red?logo=Gmail&logoColor=red&labelColor=black)](mailto:amrit.raj1504@gmail.com)
 <br>
 [![LeetCode](https://img.shields.io/badge/LeetCode-rajamrit_15-orange?logo=leetcode&logoColor=orange&labelColor=black)](https://leetcode.com/u/rajamrit_15/)
-[![YouTube](https://img.shields.io/badge/YouTube-infoskillx-red?logo=youtube&logoColor=red&labelColor=black)](https://www.youtube.com/infoskillx)
+[![YouTube](https://img.shields.io/badge/YouTube-ProgrammingWithAmrit-red?logo=youtube&logoColor=red&labelColor=black)](https://www.youtube.com/@ProgrammingWithAmrit)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-rajamrit15-green?logo=geeksforgeeks&logoColor=green&labelColor=black)](https://auth.geeksforgeeks.org/user/rajamrit15/practice/)
 [![Instagram](https://img.shields.io/badge/Instagram-rajamrit_15-purple?logo=instagram&logoColor=purple&labelColor=black)](https://www.instagram.com/rajamrit_15/)
 [![ProfileViews](https://komarev.com/ghpvc/?username=amritmaurya1504&color=red&style=flat)](https://komarev.com/ghpvc/?username=amritmaurya1504)
