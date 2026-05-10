@@ -44,13 +44,13 @@ I'm 22 years old `dynamic Full Stack Web Developer` From India.<img src="https:/
 ```javascript
 const amrit = {
   pronouns: "he" | "him",
-  code: [Java, Javascript, Typescript, HTML, CSS, SQL, Data Structures & Algorithm, Problem Solving],
+  code: [Java, Javascript, Typescript, HTML, CSS, SQL, Data Structures & Algorithm, Problem Solving, System design],
   frontend: [React, Next, Redux, React-Query, tailwind, bootstrap],
   backend: [nodejs, express, spring, springBoot],
   databases : [MySQL, MonogoDB, Postgres],
-  tools: [Git, Github, VSCode, Docker],
+  tools: [Git, Github, VSCode, Docker, Apache Kafka],
   cs: [OOPS, DBMS, Operating System, Computer Networks],
-  latest-technology: [Blockchain]
+  genAi: [Spring AI, RAG, Tool Calling, MCP, LLM API Integration],
 }
 ```
 
