@@ -1,5 +1,5 @@
 # Hi there,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="40px" width="40px"> I'm Amrit Raj  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/>
-I'm 22 years old `dynamic Full Stack Web Developer` From India.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> [![Github](https://img.shields.io/github/followers/amritmaurya1504?label=Follow%20Me&style=social)](https://github.com/amritmaurya1504)
+I'm 24 years old `dynamic Full Stack Web Developer` From India.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> [![Github](https://img.shields.io/github/followers/amritmaurya1504?label=Follow%20Me&style=social)](https://github.com/amritmaurya1504)
 
 [![Portfolio | Amrit Raj](https://img.shields.io/website?label=portfolio&style=for-the-badge&url=https://programmingwithamrit.com/)](https://programmingwithamrit.com/)
 
@@ -17,7 +17,7 @@ I'm 22 years old `dynamic Full Stack Web Developer` From India.<img src="https:/
 🌱 Lifelong Learner | 💻 Self-Taught Full Stack Developer | 🎵 Music Enthusiast. <br />
 👯 I'm open to collaborations with fellow content creators and developers. <br />
 🥅 My goal: To be a skilled Engineer 👨‍💻. <br />
-🔍 Currently exploring Blockchain technology.
+🔍 Currently exploring Artificial Intelligence.
 
 <!-- START OF PROFILE STACK, DO NOT REMOVE -->
 
